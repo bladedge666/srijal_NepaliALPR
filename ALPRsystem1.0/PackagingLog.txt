@@ -1,0 +1,34 @@
+mcc -C -o ALPRsystem -W WinMain:ALPRsystem -T link:exe -d 'E:\Major Project OCR\FINAL\srijal_proj_ocr\ALPRsystem\for_testing' -v 'E:\Major Project OCR\FINAL\srijal_proj_ocr\OCR.m' -a 'E:\Major Project OCR\FINAL\srijal_proj_ocr\create_templates.m' -a 'E:\Major Project OCR\FINAL\srijal_proj_ocr\lu4kha.png' -a 'E:\Major Project OCR\FINAL\srijal_proj_ocr\templates.mat' 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[Warning: Adding path "E:\Major Project OCR\FINAL\srijal_proj_ocr" to Compiler
+path instance.] 
+[] 
+Parsing file "E:\Major Project OCR\FINAL\srijal_proj_ocr\OCR.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 14 temporary MEX authorization files.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184415524_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184416541_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184411145_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184426803_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184420504_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184413099_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_018447261_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184420216_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184415429_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184413807_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184420845_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184415857_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_0184429211_6212.auth'.
+Removing: 'C:\Users\Srzyl\AppData\Local\Temp\mathworks_tmp_018441131_6212.auth'.
+Generating file "E:\Major Project OCR\FINAL\srijal_proj_ocr\ALPRsystem\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\R2015b\toolbox\compiler\Resources\default_icon.ico to E:\Major Project OCR\FINAL\srijal_proj_ocr\ALPRsystem\for_testing\ALPRsystem.exe.
+Attempting to embed the CTF archive into the application E:\Major Project OCR\FINAL\srijal_proj_ocr\ALPRsystem\for_testing\ALPRsystem.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at E:\Major Project OCR\FINAL\srijal_proj_ocr\ALPRsystem\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 1 minutes and 58 seconds.
